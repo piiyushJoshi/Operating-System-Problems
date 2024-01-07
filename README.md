@@ -10,4 +10,5 @@ List of Problems is:
 6. Producer Consumer Problem.
 7. Reader Writer Problem.
 8. Round Robin Scheduling Algorithm.
-9. SJF Scheduling Algorithm.cpp
+9. SJF Scheduling Algorithm.
+10. Random Number Generation.
